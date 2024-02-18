@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/ui-library.test.js"
-  }
+  },
+  "gitHead": "d8644a27c3c0b0173ce15d96d6532c8a61511b4f"
 }
